@@ -3,7 +3,7 @@
 <br>
 " SOLVING PROBLEMS ON 'LEETCODE'..."
 <br>
-This repository contains my C++ programming practice programs.
+This repository contains my C programming practice programs.
 <br>
 Topics covered:
 <br>
