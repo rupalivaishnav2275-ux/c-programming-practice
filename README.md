@@ -7,30 +7,33 @@ This repository contains my C programming practice programs.
 <br>
 Topics covered:
 <br>
-1 - Variables, Data types + Input/Output
+1 - Variables
 <br>
-2 - Instructions & Operators
+2 - Data types + Input/Output
 <br>
-3 - Conditional Statements
+3 - Instructions & Operators
 <br>
-4 - Loop Control Statements
+4 - Conditional Statements
 <br>
-5 - Functions & Recursion
-6 - Pointers
+5 - Loop Control Statements
 <br>
-7 - Arrays
+6 - Functions & Recursion
 <br>
-8 - Strings
+7 - Pointers
 <br>
-9 - Structures
+8 - Arrays
 <br>
-10 - File I/O
+9 - Strings
 <br>
-11 - Dynamic Memory Allocation
+10 - Structures
+<br>
+11 - File I/O
+<br>
+12 - Dynamic Memory Allocation
 
 
 Goal:
-Solve 200+ problems in 6 months and improve problem-solving skills.
+Solve 200+ problems in 6 months and Improve problem-solving skills.
 <br>
 Author: R-Vaishnav
 <br>
