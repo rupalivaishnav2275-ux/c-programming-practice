@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/coding-journey)
 ![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/coding-journey?style=social)
 # c-programming-practice
-"PRACTISING C LANGUAGE ".....
+"PRACTICING C LANGUAGE ".....
 <br>
 " SOLVING PROBLEMS ON 'LEETCODE'..."
 <br>
