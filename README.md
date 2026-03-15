@@ -1,4 +1,4 @@
-# C PROGRAMMING PRACTICE 
+# c-programming-practice
 "PRACTISING C LANGUAGE ".....
 <br>
 " SOLVING PROBLEMS ON 'LEETCODE'..."
