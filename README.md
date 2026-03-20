@@ -59,21 +59,23 @@ I am consistently solving problems and improving my **problem-solving skills**.
 
 <p align="center">
   
-| Topic                  | Status |
-| ---------------------- | ------ |
-| Variables & Data Types | ✅     |
-| Input / Output         | ✅     |
-| Operators              | ⏳      |
-| Conditional Statements | ⏳      |
-| Loops                  | ⏳      |
-| Functions              | ⏳      |
-| Recursion              | ⏳      |
-| Pointers               | ⏳      |
-| Arrays                 | ⏳      |
-| Strings                | ⏳      |
-| Structures             | ⏳      |
-| File I/O               | ⏳      |
-| Dynamic Memory         | ⏳      |
+| Topic                       | Status |
+| ----------------------------| ------ |
+| Basics (Syntax,Hello World) | ✅     |
+| Variables & Data Types      | ✅     |
+| Input / Output              | ✅     |
+| Instructions                | ⏳      |
+| Operators                   | ⏳      |
+| Conditional Statements      | ⏳      |
+| Loops                       | ⏳      |
+| Functions                   | ⏳      |
+| Recursion                   | ⏳      |
+| Pointers                    | ⏳      |
+| Arrays                      | ⏳      |
+| Strings                     | ⏳      |
+| Structures                  | ⏳      |
+| File I/O                    | ⏳      |
+| Dynamic Memory              | ⏳      |
 
 </p>
 
