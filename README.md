@@ -64,8 +64,8 @@ I am consistently solving problems and improving my **problem-solving skills**.
 | Basics (Syntax,Hello World) | ✅     |
 | Variables & Data Types      | ✅     |
 | Input / Output              | ✅     |
-| Instructions                | ⏳      |
-| Operators                   | ⏳      |
+| Instructions                | ✅     |
+| Operators                   | ✅     |
 | Conditional Statements      | ⏳      |
 | Loops                       | ⏳      |
 | Functions                   | ⏳      |
@@ -129,23 +129,26 @@ I am consistently solving problems and improving my **problem-solving skills**.
 ## ─── 📁 Folder Structure ───
 
 ```bash
-  c-programming-practice/
- ├── 01-hello-world.c
- ├── 02-variables.c
- └── README.md
+  c-programming-practice
+├── 01-hello-world.c
+├── 02-variables.c
+├── 03-instructions.c
+├── 04-operators.c
+└── README.md
 ```
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
 
 
-## ─── 🧩 Problems Solved ───
+## ─── 🧩 Programs Solved ───
 
-| # | Problem | Status |
-|--|--------|--------|
-| 1 | Hello World | ✅ |
-| 2 | Variables Program | ✅ |
-
+| # | Program              | Status |
+|--|-----------------------|--------|
+| 1 | Hello World          | ✅    |
+| 2 | Variables Program    | ✅     |
+| 3 | Instructions Program | ✅     |
+| 4 | Operators Program    | ✅     |
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
 
@@ -154,8 +157,10 @@ I am consistently solving problems and improving my **problem-solving skills**.
 
 - 🔹 [01-hello-world.c](./01-hello-world.c)
 - 🔹 [02-variables.c](./02-variables.c)
+- 🔹 [03-instructions.c](./03-instructions.c)
+- 🔹 [04-operators.c](./04-operators.c)
 
-
+  
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
 
