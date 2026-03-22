@@ -47,7 +47,7 @@ I am consistently solving problems and improving my **problem-solving skills**.
 
 ##  ─── 📊 Progress Tracker ───
 
-![Progress](https://img.shields.io/badge/Progress-25%25-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-65%25-blue?style=for-the-badge)
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=80&section=header"/>
 
@@ -69,8 +69,8 @@ I am consistently solving problems and improving my **problem-solving skills**.
 | Conditional Statements      | ✅     |
 | Loops                       | ✅     |
 | Functions                   | ✅     |
-| Recursion                   | ⏳      |
-| Pointers                    | ⏳      |
+| Recursion                   | ✅     |
+| Pointers                    | ✅     |
 | Arrays                      | ⏳      |
 | Strings                     | ⏳      |
 | Structures                  | ⏳      |
@@ -138,6 +138,8 @@ I am consistently solving problems and improving my **problem-solving skills**.
 ├── 05-conditional-statements.c
 ├── 06-loops.c
 ├── 07-functions.c
+├── 08-recursion.c
+├── 09-pointers.c
 └── README.md
 ```
 
@@ -155,7 +157,9 @@ I am consistently solving problems and improving my **problem-solving skills**.
 | 4 | Operators Program                 | ✅   |
 | 5 | Conditional Statements Program    | ✅   |
 | 6 | Loops Program                     | ✅   |
-| 7 | Functions Program                 |  ✅  |
+| 7 | Functions Program                 | ✅   |
+| 8 | Recursion Program                 | ✅   |
+| 9 | Pointers Program                 | ✅   |
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
@@ -169,7 +173,9 @@ I am consistently solving problems and improving my **problem-solving skills**.
 - 🔹 [04-operators.c](./04-operators.c)
 - 🔹 [05-conditional-statements.c](./05-conditional-statements.c)
 - 🔹 [06-loops.c](./06-loops.c)
-- 🔹 [07-functions.c](./07-ofunctions.c)
+- 🔹 [07-functions.c](./07-functions.c)
+- 🔹 [08-recursion.c](./08-recursion.c)
+- 🔹 [09-pointers.c](./09-pointers.c)
 
 
 ---
