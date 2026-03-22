@@ -3,7 +3,7 @@
 // Author: Rupali Vaishnav
 // Date: 2026
 
-// Learning Platform: Apna College
+// Learning Source: Apna College (with my own understanding and practice)
 // Compiler: GCC (MinGW)
 // OS: Windows
 
@@ -12,7 +12,7 @@
 // ======================================================
 
 // 1. Write code in VS Code
-// 2. Open Terminal (Ctrl + ')
+// 2. Open Terminal (Ctrl + `)
 // 3. Compile:
 //    gcc 03-instructions.c -o instructions
 // 4. Run:
@@ -73,19 +73,20 @@
 // ======================================================
 
 // Notes:
-// - Instructions control how a program runs
-// - Arithmetic instructions perform calculations
-// - Control instructions manage flow
+// - I understood that instructions define how the program executes step by step
+// - Arithmetic instructions are used for calculations like addition and multiplication
+// - Control instructions help change the flow (like if-else and loops)
+// - This topic helped me understand how program flow actually works
 
 // Important Points:
-// - pow() requires math.h
-// - Type casting is important for correct results
-// - Operator precedence affects output
+// - I noticed that pow() only works after including math.h
+// - Type casting helps avoid integer division issues
+// - Operator precedence changes the result (e.g., 2 + 3 * 4 = 14)
 
 // Mistakes:
-// - Forgetting to include math.h
-// - Not using type casting (int division issue)
-// - Misunderstanding precedence (2 + 3 * 4 ≠ 20)
+// - I forgot to include math.h and pow() didn't work
+// - I didn't use type casting and got the wrong division result
+// - I thought 2 + 3 * 4 = 20 but learned precedence gives 14
 
 // ======================================================
 // 🔹 CODE IMPLEMENTATION
