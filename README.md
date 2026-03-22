@@ -24,9 +24,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
 
 
-## ─── 📌 About This Repository ───
+## ─── 📌 About This Repository ──
 
-This repository contains my **C Programming Practice Journey** 💻
+This repository documents my journey **C Programming from scratch** 💻
 <br>
 I am consistently solving problems and improving my **problem-solving skills**.
 <br>
