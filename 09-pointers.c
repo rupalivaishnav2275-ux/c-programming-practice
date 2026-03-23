@@ -1,5 +1,5 @@
 // Program: Pointers in C
-// Description: Demonstrates pointers, syntax, declaration, pointer to pointer, function calls (call by value & reference), and practice questions.
+// Description: Covers pointer fundamentals with clear examples, modular functions, and real use-cases like swapping, arrays, and memory access.
 // Author: Rupali Vaishnav
 // Date: 2026
 
@@ -25,6 +25,12 @@
 
 // Pointer:
 // A variable that stores the memory address of another variable.
+
+// Why Pointers Matter:
+// - They allow direct memory access
+// - Enable efficient data manipulation
+// - Used in arrays, functions, and dynamic memory
+// - Core concept for advanced topics like data structures
 
 // ======================================================
 // 🔹 SYNTAX & DECLARATION
@@ -81,29 +87,27 @@
 // ======================================================
 
 // Notes:
-// - Pointers store memory addresses, not actual values
-// - Using pointers, we can directly modify variables (efficient memory usage)
-// - I understood how arrays and pointers are closely related
-// - Call by reference allows modifying original data
-// - Pointer to pointer helps in multi-level memory access
-// - Pointers are widely used in data structures (linked list, trees)
+// - I understood that pointers store memory addresses, not actual values
+// - I learned how changing values using pointers affects original variables
+// - I observed how arrays internally behave like pointers
+// - This topic helped me connect memory with program execution
 
 // Important Points:
 // - Always initialize pointers before use
-// - Use correct data type for pointer
-// - Dereferencing uninitialized pointer causes crash
-// - Arrays and pointers are strongly connected
+// - Dereferencing uninitialized pointers can crash the program
 // - Pointer arithmetic depends on data type size
-// - Use %p to print address (best practice)
-// - Double pointers (**ptr) are useful in dynamic memory allocation
+// - %p should be used to print addresses (best practice)
+// - Double pointers (**ptr) are useful in advanced memory handling
 
 // Mistakes:
-// - Using uninitialized pointers (wild pointers)
-// - Dereferencing NULL pointer
-// - Confusing * (value) and & (address)
-// - Memory leaks in advanced pointer usage
-// - Incorrect pointer arithmetic
-// - Forgetting that array name is a pointer
+// - I used uninitialized pointers (wild pointers)
+// - I confused between * (value) and & (address)
+// - I tried printing address using %d instead of %p
+// - I misunderstood how pointer arithmetic works initially
+
+// Reflection:
+// This file helped me understand how memory works in C and how pointers give more control over data.
+// I now feel more confident using pointers in functions and arrays.
 
 // ======================================================
 // 🔹 FUNCTION DECLARATIONS
