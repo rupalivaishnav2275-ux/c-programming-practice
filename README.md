@@ -1,8 +1,7 @@
-# **✨c-programming-practice✨**
-
+# ───✨ C Programming Practice ✨───
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+My+C+Programming+Journey!;Solving+Problems+Daily+🚀;Building+Logic+Step+by+Step+💡">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Building+Strong+Programming+Foundations+in+C;From+Basics+to+Memory+Management;Consistency+%2B+Logic+%3D+Growth+🚀">
 </p>
 
 ---
@@ -23,13 +22,23 @@
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
 
+##  ─── 🧠 About This Repository ───
 
-## ─── 📌 About This Repository ──
+This repository documents my journey of learning **C Programming from scratch to advanced concepts**.
 
-This repository documents my journey **C Programming from scratch** 💻
-<br>
-I am consistently solving problems and improving my **problem-solving skills**.
-<br>
+It is not just a collection of programs —  
+it reflects my:
+
+- 💡 Concept understanding  
+- 🛠️ Implementation skills  
+- 🧠 Problem-solving approach  
+- 📈 Continuous improvement  
+
+Each file includes:
+- ✔ Concepts + syntax  
+- ✔ Real implementations  
+- ✔ Practice problems  
+- ✔ My learnings & mistakes  
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
@@ -37,9 +46,13 @@ I am consistently solving problems and improving my **problem-solving skills**.
 
 ##  ─── 🎯 Goal ───
 
-* 🔥 Solve **300 Problems in 18 Months**
+- 🔥 Solve **300+ problems**
+ 
+- ⚡ Build strong **core programming fundamentals**
 
-* ⚡ Master **C Programming Fundamentals**
+- 🧠 Develop **problem-solving mindset**
+ 
+- 🚀 Prepare for **DSA & technical interviews**
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
@@ -47,7 +60,7 @@ I am consistently solving problems and improving my **problem-solving skills**.
 
 ##  ─── 📊 Progress Tracker ───
 
-![Progress](https://img.shields.io/badge/Progress-85%25-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-100%25-blue?style=for-the-badge)
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=80&section=header"/>
 
@@ -59,23 +72,24 @@ I am consistently solving problems and improving my **problem-solving skills**.
 
 <p align="center">
   
-| Topic                       | Status |
-| ----------------------------| ------ |
-| Basics (Syntax,Hello World) | ✅     |
-| Variables & Data Types      | ✅     |
-| Input / Output              | ✅     |
-| Instructions                | ✅     |
-| Operators                   | ✅     |
-| Conditional Statements      | ✅     |
-| Loops                       | ✅     |
-| Functions                   | ✅     |
-| Recursion                   | ✅     |
-| Pointers                    | ✅     |
-| Arrays                      | ⏳      |
-| Strings                     | ⏳      |
-| Structures                  | ⏳      |
-| File I/O                    | ⏳      |
-| Dynamic Memory              | ⏳      |
+
+| Topic                        | Status |
+|-----------------------------|--------|
+| Basics (Hello World)        | ✅ |
+| Variables & Data Types      | ✅ |
+| Input / Output              | ✅ |
+| Instructions                | ✅ |
+| Operators                   | ✅ |
+| Conditional Statements      | ✅ |
+| Loops                       | ✅ |
+| Functions                   | ✅ |
+| Recursion                   | ✅ |
+| Pointers                    | ✅ |
+| Arrays                      | ✅ |
+| Strings                     | ✅ |
+| Structures                  | ✅ |
+| File Handling               | ✅ |
+| Dynamic Memory Allocation   | ✅ |
 
 </p>
 
@@ -114,6 +128,11 @@ I am consistently solving problems and improving my **problem-solving skills**.
 
 ## ─── ⚙️ Tech Stack ───
 
+💻 Language: C
+🛠️ Editor: VS Code
+🔧 Compiler: GCC (MinGW)
+📂 Version Control: Git & GitHub
+
 [![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 <br>
 [![VS Code](https://img.shields.io/badge/VS_Code-Editor-blue?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
@@ -130,7 +149,7 @@ I am consistently solving problems and improving my **problem-solving skills**.
 ## ─── 📁 Folder Structure ───
 
 ```bash
-  c-programming-practice
+c-programming-practice/
 ├── 01-hello-world.c
 ├── 02-variables.c
 ├── 03-instructions.c
@@ -140,6 +159,11 @@ I am consistently solving problems and improving my **problem-solving skills**.
 ├── 07-functions.c
 ├── 08-recursion.c
 ├── 09-pointers.c
+├── 10-arrays.c
+├── 11-strings.c
+├── 12-structures.c
+├── 13-file-handling.c
+├── 14-dynamic-memory.c
 └── README.md
 ```
 
@@ -149,17 +173,23 @@ I am consistently solving problems and improving my **problem-solving skills**.
 
 ## ─── 🧩 Programs Solved ───
 
-| # | Program                          | Status |
-|--|-----------------------------------|--------|
-| 1 | Hello World                       | ✅   |
-| 2 | Variables Program                 | ✅   |  
-| 3 | Instructions Program              | ✅   |
-| 4 | Operators Program                 | ✅   |
-| 5 | Conditional Statements Program    | ✅   |
-| 6 | Loops Program                     | ✅   |
-| 7 | Functions Program                 | ✅   |
-| 8 | Recursion Program                 | ✅   |
-| 9 | Pointers Program                 | ✅   |
+| #  | Program                          | Status |
+|----|----------------------------------|--------|
+| 1  | Hello World                      | ✅ |
+| 2  | Variables                        | ✅ |
+| 3  | Instructions                     | ✅ |
+| 4  | Operators                        | ✅ |
+| 5  | Conditional Statements           | ✅ |
+| 6  | Loops                            | ✅ |
+| 7  | Functions                        | ✅ |
+| 8  | Recursion                        | ✅ |
+| 9  | Pointers                         | ✅ |
+| 10 | Arrays                           | ✅ |
+| 11 | Strings                          | ✅ |
+| 12 | Structures (Mini System)         | ✅ |
+| 13 | File Handling (Real Use Cases)   | ✅ |
+| 14 | Dynamic Memory Allocation        | ✅ |
+
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
@@ -181,12 +211,15 @@ I am consistently solving problems and improving my **problem-solving skills**.
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
 
+## ─── 🚀 What Makes This Repo Different ───
 
-## ─── ✨ Future Plans ───
+- Not copied code — self-written & practiced
 
-* 📌 Topic-wise folders (Loops, Arrays, etc.)
-* 📌 Add explanations for each problem
-* 📌 Add advanced C concepts
+- Includes real-world logic (file handling, systems)
+
+- Focus on memory + pointers (important for interviews)
+
+- Shows learning + mistakes (growth mindset)
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-6d0f0d6e-1b0c-4c63-9c69-61e3c6c6a5d3.gif"/>
@@ -198,7 +231,9 @@ I am consistently solving problems and improving my **problem-solving skills**.
 
 - Focus on logic building
 
-- Revise concepts weekly
+- Write modular code
+
+- Learn from mistakes
 
 - Maintain consistency over perfection
 
